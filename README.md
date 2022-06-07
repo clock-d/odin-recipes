@@ -1,5 +1,5 @@
 # odin-recipes
-An HTML website with links to three webpages, each containing a specific recipe
+An HTML website with links to three webpages, each containing a specific recipe.
 Contents of each webpage contain:
   - A title heading
   - An image of the finished dish
